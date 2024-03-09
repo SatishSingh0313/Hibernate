@@ -29,7 +29,6 @@
 	</persistence-unit>
 </persistence>
 
-
 2. add dependencies inside (pom.xml)
    
 <dependencies>
