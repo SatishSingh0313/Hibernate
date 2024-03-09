@@ -28,9 +28,10 @@
 		</properties>
 	</persistence-unit>
 </persistence>
-///////////////////////
-2. add dependencies inside (pom.xml).
 
+
+2. add dependencies inside (pom.xml)
+   
 <dependencies>
   <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
 <dependency>
